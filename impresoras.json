@@ -1,0 +1,228 @@
+{
+    "printers": [
+        {
+            "name": "Zebra ZD410/ZD420",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 108.0,
+            "resolutions_dpi": [203, 300],
+            "speed_ips": 6.0
+        },
+        {
+            "name": "Zebra ZD620/ZD621",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 118.0,
+            "resolutions_dpi": [203, 300],
+            "speed_ips": 8.0
+        },
+        {
+            "name": "Zebra GK420/GX420",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 108.0,
+            "resolutions_dpi": [203],
+            "speed_ips": 6.0
+        },
+        {
+            "name": "Zebra ZT410/ZT411",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 114.0,
+            "resolutions_dpi": [203, 300, 600],
+            "speed_ips": 14.0
+        },
+        {
+            "name": "Zebra ZT510/ZT610",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 114.0,
+            "resolutions_dpi": [203, 300, 600],
+            "speed_ips": 14.0
+        },
+        {
+            "name": "Zebra ZQ520",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 113.0,
+            "resolutions_dpi": [203],
+            "speed_ips": 5.0
+        },
+        {
+            "name": "Zebra 105SL Plus",
+            "max_printable_width_mm": 102.0,
+            "max_media_width_mm": 114.0,
+            "resolutions_dpi": [203, 300, 600],
+            "speed_ips": 12.0
+        },
+        {
+            "name": "Zebra Xi4 Series",
+            "max_printable_width_mm": 102.0,
+            "max_media_width_mm": 114.0,
+            "resolutions_dpi": [203, 300, 600],
+            "speed_ips": 14.0
+        },
+        {
+            "name": "Dymo LabelWriter 450/550",
+            "max_printable_width_mm": 62.0,
+            "max_media_width_mm": 62.0,
+            "resolutions_dpi": [600],
+            "labels_per_min": 71
+        },
+        {
+            "name": "Dymo LabelWriter 4XL/5XL",
+            "max_printable_width_mm": 101.6,
+            "max_media_width_mm": 115.0,
+            "resolutions_dpi": [300],
+            "labels_per_min": 53
+        },
+        {
+            "name": "Brother QL-820NWB",
+            "max_printable_width_mm": 62.0,
+            "max_media_width_mm": 63.5,
+            "resolutions_dpi": [300],
+            "speed_mm_s": 176
+        },
+        {
+            "name": "Brother QL-1100/1110NWB",
+            "max_printable_width_mm": 101.6,
+            "max_media_width_mm": 103.6,
+            "resolutions_dpi": [300],
+            "labels_per_min": 69
+        },
+        {
+            "name": "Brother TD-4550DNWB",
+            "max_printable_width_mm": 108.4,
+            "max_media_width_mm": 118.0,
+            "resolutions_dpi": [203, 300],
+            "speed_ips": 6.0
+        },
+        {
+            "name": "Brother PT-P900W/P950NW",
+            "max_printable_width_mm": 32.0,
+            "max_media_width_mm": 36.0,
+            "resolutions_dpi": [360],
+            "speed_mm_s": 60
+        },
+        {
+            "name": "Epson TM-C3400",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 112.0,
+            "resolutions_dpi": [360],
+            "speed_ips": 4.0
+        },
+        {
+            "name": "Epson CW-C6000",
+            "max_printable_width_mm": 108.0,
+            "max_media_width_mm": 112.0,
+            "resolutions_dpi": [600],
+            "speed_ips": 5.0
+        },
+        {
+            "name": "Epson CW-C6500",
+            "max_printable_width_mm": 211.9,
+            "max_media_width_mm": 216.0,
+            "resolutions_dpi": [600],
+            "speed_ips": 3.4
+        },
+        {
+            "name": "Epson C7500",
+            "max_printable_width_mm": 108.0,
+            "max_media_width_mm": 112.0,
+            "resolutions_dpi": [600],
+            "speed_ips": 11.8
+        },
+        {
+            "name": "Sato CL4NX Plus",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 131.0,
+            "resolutions_dpi": [203, 305, 609],
+            "speed_ips": 14.0
+        },
+        {
+            "name": "Sato CT4-LX",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 118.0,
+            "resolutions_dpi": [203, 305],
+            "speed_ips": 8.0
+        },
+        {
+            "name": "Sato PW2NX",
+            "max_printable_width_mm": 55.0,
+            "max_media_width_mm": 60.0,
+            "resolutions_dpi": [203],
+            "speed_ips": 6.0
+        },
+        {
+            "name": "Honeywell PC42t",
+            "max_printable_width_mm": 104.1,
+            "max_media_width_mm": 110.0,
+            "resolutions_dpi": [203],
+            "speed_ips": 5.0
+        },
+        {
+            "name": "Honeywell PX940",
+            "max_printable_width_mm": 108.0,
+            "max_media_width_mm": 114.0,
+            "resolutions_dpi": [203, 300, 406, 600],
+            "speed_ips": 14.0
+        },
+        {
+            "name": "Honeywell RP4f",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 111.0,
+            "resolutions_dpi": [203, 300],
+            "speed_ips": 5.0
+        },
+        {
+            "name": "TSC TTP-225",
+            "max_printable_width_mm": 54.0,
+            "max_media_width_mm": 60.0,
+            "resolutions_dpi": [203],
+            "speed_ips": 6.0
+        },
+        {
+            "name": "TSC MH241",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 114.0,
+            "resolutions_dpi": [203, 300, 600],
+            "speed_ips": 14.0
+        },
+        {
+            "name": "TSC DA210/DA220",
+            "max_printable_width_mm": 108.0,
+            "max_media_width_mm": 114.0,
+            "resolutions_dpi": [203, 300],
+            "speed_ips": 6.0
+        },
+        {
+            "name": "Godex G500",
+            "max_printable_width_mm": 108.0,
+            "max_media_width_mm": 118.0,
+            "resolutions_dpi": [203, 300],
+            "speed_ips": 5.0
+        },
+        {
+            "name": "Godex ZX420",
+            "max_printable_width_mm": 108.0,
+            "max_media_width_mm": 118.0,
+            "resolutions_dpi": [203, 300],
+            "speed_ips": 6.0
+        },
+        {
+            "name": "Citizen CL-S631",
+            "max_printable_width_mm": 108.0,
+            "max_media_width_mm": 118.0,
+            "resolutions_dpi": [203, 300],
+            "speed_ips": 4.0
+        },
+        {
+            "name": "Citizen CL-S700",
+            "max_printable_width_mm": 104.1,
+            "max_media_width_mm": 118.1,
+            "resolutions_dpi": [203, 300],
+            "speed_ips": 10.0
+        },
+        {
+            "name": "Rollo X1038",
+            "max_printable_width_mm": 104.0,
+            "max_media_width_mm": 112.0,
+            "resolutions_dpi": [203],
+            "speed_mm_s": 150
+        }
+    ]
+}
