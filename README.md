@@ -1,6 +1,6 @@
 # Etiquetas Print 🖨️
 
-![Project Banner](INSERT_BANNER_IMAGE_HERE)
+![Etiquetas Print Banner](public/banner.png)
 
 **Etiquetas Print** is a powerful, modern desktop application designed for designing and printing professional labels. Built with performance and user experience in mind, it leverages the power of **Tauri**, **React**, and **TypeScript** to deliver a seamless label-editing experience.
 
@@ -77,4 +77,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
-Developed by **[Your Name/Team]**
+Developed by **[jjarroyo](https://github.com/jjarroyo)**

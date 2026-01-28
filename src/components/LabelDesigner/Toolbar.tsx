@@ -9,6 +9,7 @@ import {
     NearMe, // Select cursor-like
 } from '@mui/icons-material';
 import { useLabelStore } from '../../stores/labelStore';
+import { Barcode } from 'lucide-react';
 
 export const Toolbar: React.FC = () => {
     const { actions, selectedElementId } = useLabelStore();
@@ -28,28 +29,28 @@ export const Toolbar: React.FC = () => {
         },
         {
             id: 'barcode',
-            icon: <ViewColumn sx={{ transform: 'rotate(90deg)' }} />,
+            icon: <Barcode />,
             label: 'Código de Barras',
             action: () => actions.addElement('barcode'),
         },
-        {
-            id: 'qr',
-            icon: <QrCode />,
-            label: 'Código QR',
-            action: () => actions.addElement('qr'),
-        },
-        {
-            id: 'shape',
-            icon: <CropSquare />,
-            label: 'Forma',
-            action: () => actions.addElement('shape'),
-        },
-        {
-            id: 'image',
-            icon: <Image />,
-            label: 'Imagen',
-            action: () => actions.addElement('image'),
-        },
+        // {
+        //     id: 'qr',
+        //     icon: <QrCode />,
+        //     label: 'Código QR',
+        //     action: () => actions.addElement('qr'),
+        // },
+        // {
+        //     id: 'shape',
+        //     icon: <CropSquare />,
+        //     label: 'Forma',
+        //     action: () => actions.addElement('shape'),
+        // },
+        // {
+        //     id: 'image',
+        //     icon: <Image />,
+        //     label: 'Imagen',
+        //     action: () => actions.addElement('image'),
+        // },
     ];
 
     return (
